@@ -1,2 +1,3 @@
-name: Mingyi's Blog
+name: Mingyi Blog
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
